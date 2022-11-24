@@ -1,4 +1,4 @@
-# Backend for API Rick and Morty
+# Academia Bayes | Backend
 Backend para los servicios de la API Rick and Morty para la app hecha en Flutter para la asiganatura de Programación Móvil.
 
 Se debe tener instalado previamente las dependencias del repositorio.
